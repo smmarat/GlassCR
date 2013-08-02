@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GlassCR</string>
+    <string name="load_rates_action">net.multipi.LOAD_RATES</string>
+    <string name="load_rates_label">Reload rates</string>
+    <string name="not_avaiable">Currency rates temporary unavaiable</string>
+    <string name="updating">Please wait, data updating...</string>
+</resources>
